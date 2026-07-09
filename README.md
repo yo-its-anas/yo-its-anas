@@ -1,14 +1,56 @@
-# Muhammad Anas
+<h1 align="center">Muhammad Anas</h1>
 
-**DevOps Engineer | Cloud Platform Engineer | Infrastructure Automation**
+<p align="center">
+  <strong>DevOps Engineer · Cloud Platform Engineer · Infrastructure Automation</strong>
+</p>
 
-I build resilient cloud infrastructure, automated CI/CD pipelines, and production-ready deployment systems for software teams that need reliability at scale. My work focuses on AWS, Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Linux, and practical platform engineering.
+<p align="center">
+  <a href="https://cloudbyanas.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-cloudbyanas.vercel.app-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-anas-a35b1a334/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Anas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:anasejaz4042@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anasejaz4042%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-Based in Pakistan, available for remote DevOps, cloud infrastructure, platform engineering, and CI/CD automation work.
+<p align="center">
+  I build resilient cloud infrastructure, automated CI/CD pipelines, and production-ready deployment systems for teams that need reliability at scale.
+</p>
 
 ---
 
-## What I Work On
+## Live Console
+
+```txt
+name              Muhammad Anas
+role              DevOps Engineer / Cloud Platform Engineer
+focus             AWS, Kubernetes, Docker, Terraform, Jenkins, GitHub Actions
+systems           Linux, Nginx, SSL/TLS, CI/CD, monitoring, automation
+portfolio         https://cloudbyanas.vercel.app/
+status            available for cloud infrastructure and DevOps work
+```
+
+---
+
+## Core Stack
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+</p>
+
+---
+
+## What I Build
 
 - Cloud infrastructure design and operations with AWS
 - Kubernetes deployments, services, ingress, secrets, and rollout workflows
@@ -20,22 +62,9 @@ Based in Pakistan, available for remote DevOps, cloud infrastructure, platform e
 
 ---
 
-## Core Stack
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
----
-
 ## Featured Platform Work
 
-| Project | Focus | Link |
+| Project | Platform Focus | Link |
 |---|---|---|
 | SecureMagnus | Secure deployments, automation, service maintenance | [securemagnus.com](https://securemagnus.com) |
 | Cardience | Digital cards platform, cloud delivery, containerized services | [cardience.io](https://cardience.io) |
@@ -55,24 +84,56 @@ reliability        monitoring, backups, logs, runbooks
 delivery           repeatable releases, safer deployments, uptime
 ```
 
+<details>
+<summary><strong>How I think about DevOps work</strong></summary>
+
+DevOps is not only pipelines and servers. It is the operating system for software delivery: clear environments, repeatable releases, observable systems, secure access, fast rollback paths, and infrastructure that developers can trust.
+
+</details>
+
+<details>
+<summary><strong>Keywords I work around</strong></summary>
+
+AWS DevOps, Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Linux automation, CI/CD pipelines, cloud platform engineering, infrastructure automation, monitoring, Nginx, SSL/TLS, production deployments.
+
+</details>
+
 ---
 
 ## GitHub Stats
 
-![Muhammad Anas GitHub stats](https://github-readme-stats.vercel.app/api?username=yo-its-anas&show_icons=true&theme=github_dark&hide_border=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yo-its-anas&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=21600" alt="Muhammad Anas GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yo-its-anas&layout=compact&theme=github_dark&hide_border=true&cache_seconds=21600" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yo-its-anas&layout=compact&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yo-its-anas&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## Connect
 
-- Portfolio: [github.com/yo-its-anas/portfolio](https://github.com/yo-its-anas/portfolio)
-- LinkedIn: [linkedin.com/in/muhammad-anas-a35b1a334](https://www.linkedin.com/in/muhammad-anas-a35b1a334/)
-- Email: [anasejaz4042@gmail.com](mailto:anasejaz4042@gmail.com)
+```txt
+portfolio   https://cloudbyanas.vercel.app/
+github      https://github.com/yo-its-anas
+linkedin    https://www.linkedin.com/in/muhammad-anas-a35b1a334/
+email       anasejaz4042@gmail.com
+```
+
+<p align="center">
+  <a href="https://cloudbyanas.vercel.app/">Portfolio</a>
+  ·
+  <a href="https://github.com/yo-its-anas/portfolio">Portfolio Repo</a>
+  ·
+  <a href="https://www.linkedin.com/in/muhammad-anas-a35b1a334/">LinkedIn</a>
+  ·
+  <a href="mailto:anasejaz4042@gmail.com">Email</a>
+</p>
 
 ---
 
-```txt
-Building resilient cloud infrastructure at scale.
-```
+<p align="center">
+  <code>Building resilient cloud infrastructure at scale.</code>
+</p>
