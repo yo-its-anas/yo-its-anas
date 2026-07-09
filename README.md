@@ -22,16 +22,34 @@
 
 ---
 
-## Live Console
+## Snapshot
 
-```txt
-name              Muhammad Anas
-role              DevOps Engineer / Cloud Platform Engineer
-focus             AWS, Kubernetes, Docker, Terraform, Jenkins, GitHub Actions
-systems           Linux, Nginx, SSL/TLS, CI/CD, monitoring, automation
-portfolio         https://cloudbyanas.vercel.app/
-status            available for cloud infrastructure and DevOps work
-```
+<table>
+  <tr>
+    <td><strong>Name</strong></td>
+    <td>Muhammad Anas</td>
+  </tr>
+  <tr>
+    <td><strong>Role</strong></td>
+    <td>DevOps Engineer / Cloud Platform Engineer</td>
+  </tr>
+  <tr>
+    <td><strong>Focus</strong></td>
+    <td>AWS · Kubernetes · Docker · Terraform · Jenkins · GitHub Actions</td>
+  </tr>
+  <tr>
+    <td><strong>Systems</strong></td>
+    <td>Linux · Nginx · SSL/TLS · CI/CD · Monitoring · Automation</td>
+  </tr>
+  <tr>
+    <td><strong>Portfolio</strong></td>
+    <td><a href="https://cloudbyanas.vercel.app/">cloudbyanas.vercel.app</a></td>
+  </tr>
+  <tr>
+    <td><strong>Status</strong></td>
+    <td>Available for cloud infrastructure and DevOps work</td>
+  </tr>
+</table>
 
 ---
 
